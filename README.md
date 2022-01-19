@@ -1,11 +1,11 @@
 # myrepo
-#Hello World!
-##My name is Umy and I'm 26. I am a first year PhD student in **Behavioral Science** Department at __Booth__! Here's someone looks exactly like me: (https://miro.medium.com/max/1024/1*B0aRqFce_u_z1Jy_Sxks-A.jpeg). 
+# Hello World!
+My name is Umy and I'm 26. I am a first year PhD student in **Behavioral Science** Department at __Booth__! Here's someone looks exactly like me: ![This is an image](https://miro.medium.com/max/1024/1*B0aRqFce_u_z1Jy_Sxks-A.jpeg). 
 
-###I like 
-*George Washington
-*Thomas Jefferson
-*and myself!
+### I like 
+* George Washington
+* Thomas Jefferson
+* and myself!
 
 Here's my school e-mail: umy@chicagobooth.edu
 
